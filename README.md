@@ -1,8 +1,8 @@
 # ML-Group-Project
 Collaborators:
-Mariam Grigoryan
-Yejin Cha
-Gordon Kong
+Mariam Grigoryan,
+Yejin Cha,
+Gordon Kong,
 Chaire Flynn
 
 
